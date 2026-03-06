@@ -20,8 +20,8 @@ in clinical cardiology research.
 4. Calculate RR intervals and clinical HRV metrics
 
 ## HRV Metrics Explained
-- SDNN: Standard deviation of RR intervals â€” overall HRV measure
-- RMSSD: Root mean square of successive differences â€” short term HRV
+- SDNN: Standard deviation of RR intervals — overall HRV measure
+- RMSSD: Root mean square of successive differences — short term HRV
 - pNN50: Percentage of successive RR intervals differing by more than 50ms
 
 ## Dataset
@@ -46,5 +46,3 @@ in clinical cardiology research.
 ## Author
 Kritika
 Biomedical Engineering, 2nd Year
-
-
