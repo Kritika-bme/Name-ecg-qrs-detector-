@@ -1,3 +1,6 @@
+## Live Demo
+Interactive web app: https://ecg-app-app-5rcgbltdtlvts4hkrkdjzq.streamlit.app/
+
 # ECG QRS Detector and HRV Analyzer
 
 ## Overview
@@ -63,6 +66,7 @@ on signal boundaries, consistent with Pan-Tompkins (1985).
 ## Author
 Kritika
 B.Tech Biomedical Engineering
+
 
 
 
